@@ -2,7 +2,7 @@ Django>=1.7,<1.8
 psycopg2==2.5
 pymongo==2.7
 python-dateutil==2.1
-raven==5.0.0
+raven>=5.0.0,<6
 pytz
 Unipath==1.0
 django-taggit==0.10
@@ -13,7 +13,7 @@ PIL==1.1.7
 pycrypto==2.4.1
 python-magic==0.4.6
 hexagonit.swfheader==1.2
-uWSGI==2.0.7
+uWSGI>=2.0.7, <3
 requests==2.5.0
 
 # debugging
