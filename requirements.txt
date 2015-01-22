@@ -16,6 +16,11 @@ hexagonit.swfheader==1.2
 uWSGI>=2,<3
 requests==2.5.0
 
+# sentry problem fix
+pyopenssl
+ndg-httpsclient
+pyasn1
+
 # debugging
 ipdb
 ipython
