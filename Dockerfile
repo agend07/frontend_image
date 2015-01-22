@@ -2,7 +2,8 @@ FROM debian:latest
 
 RUN apt-get update
 
-RUN apt-get install -y build-essential \
+RUN apt-get install -y \ 
+    build-essential \
     python \
     python-dev \
     python-pip \
@@ -15,7 +16,8 @@ RUN apt-get install -y build-essential \
     libfreetype6-dev \
     liblcms1 \
     liblcms1-dev \
-    python-imaging
+    python-imaging \
+    libffi-dev
 
 ADD requirements.txt /
 RUN pip install -r /requirements.txt
