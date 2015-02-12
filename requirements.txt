@@ -15,6 +15,7 @@ python-magic==0.4.6
 hexagonit.swfheader==1.2
 uWSGI>=2,<3
 requests==2.5.0
+django-impersonate==0.9
 
 # sentry problem fix
 pyopenssl
