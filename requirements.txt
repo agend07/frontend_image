@@ -16,6 +16,7 @@ hexagonit.swfheader==1.2
 uWSGI>=2,<3
 requests==2.5.0
 django-impersonate==0.9
+pika==0.9.14
 
 # sentry problem fix
 pyopenssl
