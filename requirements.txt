@@ -19,6 +19,7 @@ django-impersonate==0.9
 pika==0.9.14
 djangorestframework==3.1.1
 djangorestframework-jwt==1.4.0
+boto==2.38.0
 
 # sentry problem fix
 pyopenssl
