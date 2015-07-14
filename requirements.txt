@@ -5,7 +5,7 @@ python-dateutil==2.1
 raven==5.1.0
 pytz
 Unipath==1.0
-django-taggit==0.12.3
+django-taggit==0.16.2
 redis==2.7.6
 hiredis==0.1.4
 django-redis-cache==0.13.0
