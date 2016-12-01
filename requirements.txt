@@ -31,3 +31,5 @@ ipdb
 ipython
 django-extensions
 django-debug-toolbar
+backports.shutil_get_terminal_size
+pathlib2
