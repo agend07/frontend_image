@@ -1,4 +1,4 @@
-Django==1.8
+Django==1.8.16
 psycopg2==2.5
 pymongo==2.8
 python-dateutil==2.1
