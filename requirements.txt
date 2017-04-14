@@ -28,7 +28,7 @@ pyasn1
 
 # debugging
 ipdb
-ipython
+ipython==5.3
 django-extensions
 django-debug-toolbar
 backports.shutil_get_terminal_size
