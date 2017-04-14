@@ -1,4 +1,4 @@
-Django==1.8.16
+Django==1.8.18
 psycopg2==2.5
 pymongo==2.8
 python-dateutil==2.1
@@ -17,8 +17,8 @@ uWSGI>=2,<3
 requests
 django-impersonate==0.9
 pika==0.9.14
-djangorestframework==3.1.1
-djangorestframework-jwt==1.4.0
+djangorestframework==3.6.2
+djangorestframework-jwt==1.10.0
 boto==2.38.0
 
 # sentry problem fix
