@@ -20,6 +20,7 @@ pika==0.9.14
 djangorestframework==3.6.2
 djangorestframework-jwt==1.10.0
 boto==2.38.0
+unicodecsv==0.14.1
 
 # sentry problem fix
 pyopenssl
