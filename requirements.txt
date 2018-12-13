@@ -58,6 +58,6 @@ traitlets==4.3.2
 typing==3.6.4
 unicodecsv==0.14.1
 Unipath==1.0
-urllib3==1.22
+urllib3>=1.23
 uWSGI==2.0.17
 wcwidth==0.1.7
