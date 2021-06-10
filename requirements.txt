@@ -7,7 +7,7 @@ chardet==3.0.4
 contextlib2==0.5.5
 cryptography==2.2.1
 decorator==4.2.1
-Django==1.11.12
+Django==2.2.24
 django-debug-toolbar==1.9.1
 django-extensions==2.0.6
 django-impersonate==1.3
